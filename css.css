@@ -1,0 +1,77 @@
+body{
+    background-color: #DDDDDD;
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+}
+.name{
+    height: 170px;
+    width: 90%;
+    max-width: 300px;
+    background-color: blue;
+    color: white;
+    margin: 10px auto;
+   box-shadow: 0 0 20px rgb(15,15,15);
+    
+}
+#razi {
+ font-weight: 800;
+ display: flex;
+ justify-content: center;
+padding-top: 35px;
+font-size: 20px;
+}
+#web{
+    color: aliceblue;
+   display: flex;
+   justify-content: center;
+}
+.card{
+    height: auto;
+    padding: 13px;
+    width: 90%;
+    max-width: 800px;
+  background-color: white;
+  margin-top: 15px;
+ border-radius: 1rem;
+ color: #f58b4e;
+ box-shadow: 0 0 10px rgb(24, 23, 23);
+ margin: 20px auto;
+ transition: 0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 0 20px gray;
+}
+h2{
+    color: #f0581d;
+    text-decoration: underline;
+}
+button{
+   height: 30px;
+   width: 90%;
+   border-radius: 8px;
+   font-weight: 750;
+   color: white;
+   background-color: blue;
+   cursor: pointer;
+   transition: 0.3;
+}
+button:hover{
+    outline: none;
+    background-color: rgb(2, 2, 138);
+}
+footer{
+    background:black;
+    color:white;
+    padding:15px;
+    margin-top:20px;
+}
+
+footer h4{
+    margin:0;
+}
+#msg{
+    text-decoration: underline;
+    color: #f0581d;
+}
