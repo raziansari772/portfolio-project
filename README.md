@@ -44,6 +44,6 @@ I am currently learning web development and JavaScript. My goal is to become the
 
 **Razi Ansari**
 
-Future Web Developer | Future CEO
+Future Web Developer 
 
 GitHub: https://github.com/raziansari772
